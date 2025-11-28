@@ -64,8 +64,8 @@
                     z.current = 5),
                     z.current % 5 == 0 && _();
                     let e = C();
-                    e >= 0 && (clearInterval(k.current),
-                    e = 0),
+                    e >= 100 && (clearInterval(k.current),
+                    e = 100),
                     p(e)
                 }
                 , 1e3)
